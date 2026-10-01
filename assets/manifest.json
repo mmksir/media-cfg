@@ -1,0 +1,8 @@
+{
+  "name": "assets",
+  "version": "2.1.0",
+  "files": [
+    "bundle/index.json",
+    "static/version.json"
+  ]
+}

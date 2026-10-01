@@ -1,0 +1,6 @@
+{
+  "module": "core",
+  "debug": false,
+  "retries": 3,
+  "timeout": 15000
+}

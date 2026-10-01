@@ -1,0 +1,6 @@
+{
+  "id": "v2",
+  "name": "bundle",
+  "entry": "data/config.json",
+  "enabled": true
+}

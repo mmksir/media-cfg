@@ -1,0 +1,5 @@
+{
+  "target": "web",
+  "files": ["app.js", "styles.css"],
+  "hash": "3f9a2c"
+}

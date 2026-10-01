@@ -1,0 +1,9 @@
+{
+  "locale": "zh-CN",
+  "theme": "dark",
+  "autoUpdate": true,
+  "paths": {
+    "assets": "assets",
+    "bundles": "assets/bundle"
+  }
+}

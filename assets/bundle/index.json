@@ -1,0 +1,5 @@
+{
+  "bundles": [
+    { "id": "v2", "path": "v2/app.json", "default": true }
+  ]
+}
