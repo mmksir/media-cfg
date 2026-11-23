@@ -6,28 +6,14 @@
       "name": "光速资源",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "categories": [
-        "剧情片",
-        "大陆剧",
-        "大陆综艺",
-        "中国动漫",
-        "记录片"
-      ]
+      "searchable": 1
     },
     {
       "key": "非凡",
       "name": "非凡资源",
       "type": 1,
       "api": "https://ffzy5.tv/api.php/provide/vod",
-      "searchable": 1,
-      "categories": [
-        "剧情片",
-        "国产剧",
-        "大陆综艺",
-        "日韩动漫",
-        "记录片"
-      ]
+      "searchable": 1
     }
   ],
   "parses": [
